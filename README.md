@@ -1,4 +1,4 @@
-# c3c-maps
+# C3C Game Maps
 
 [North America & Cities of Interest Map](pdf/Captrs_C3CGame_Map_WideAreaWithCities.pdf)
 
